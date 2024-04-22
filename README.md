@@ -1,1 +1,2 @@
 # Automated-parking-system
+The main purpose of the project is to create an application that can read the driver's license correctly. The system will capture the license plate using the camera, extract the relevant information, and convert it into a file. The string is then stored in a secure file; making it easier to access and edit using Google Sheets. The system will make the job easier and more efficient by seamlessly allocating parking space to drivers via email notification.
