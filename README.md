@@ -28,3 +28,7 @@ The Automated Parking System is designed to streamline parking management by acc
    ```bash
    git clone https://github.com/surajsajwan00/Automated-parking-system.git
    cd Automated-parking-system
+
+## Author
+
+- Suraj singh sajwan - [GitHub](https://github.com/surajsajwan00)
